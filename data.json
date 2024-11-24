@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "marka": "Apple",
+    "model": "Iphone 16",
+    "godina_proizvodnje": 2024,
+    "zaliha": 100,
+    "ocjena": 5
+  },
+  {
+    "id": 2,
+    "marka": "Samsung",
+    "model": "Galaxy S5",
+    "godina_proizvodnje": 2024,
+    "zaliha": 70,
+    "ocjena": 4
+  },
+  {
+    "id": 3,
+    "marka": "Nokia",
+    "model": "3310",
+    "godina_proizvodnje": 2014,
+    "zaliha": 50,
+    "ocjena": 10
+  },
+  {
+    "id": 4,
+    "marka": "Apple",
+    "model": "Mac",
+    "godina_proizvodnje": 2024,
+    "zaliha": 12,
+    "ocjena": 10
+  },
+  {
+    "marka": "zbregov",
+    "model": "mleko",
+    "godina_proizvodnje": 2024,
+    "zaliha": 100,
+    "ocjena": 5,
+    "id": 5
+  }
+]
